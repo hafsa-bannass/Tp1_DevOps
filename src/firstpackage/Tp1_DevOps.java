@@ -1,9 +1,9 @@
 package firstpackage;
 
-public class Tp1_project {
+public class Tp1_DevOps {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.print("Welcome!");
 
 	}
 
